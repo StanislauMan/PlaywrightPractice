@@ -1,5 +1,4 @@
 const { test, expect } = require('@playwright/test')
-const exp = require('constants')
 
 test.describe('Automate drag and drop action: simple and accept', () => {
 
